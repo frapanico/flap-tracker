@@ -26,8 +26,7 @@ This script uses client credentials (OAuth2) to authenticate with OpenSky. To ob
 1. Create a free account at https://opensky-network.org.
 2. Once logged in, go to your user dashboard and create an API application.
 3. Download the `credentials.json` file provided.
-4. Inside that file, you'll find your personal `clientId` and `clientSecret`.
-5. Replace the placeholders `your-client-id` and `your-client-secret` on lines 9 and 10 of the script with your own credentials.
+4. Inside that file, you'll find your personal `clientId` and `clientSecret`. Replace the placeholders `your-client-id` and `your-client-secret` on lines 9 and 10 of the script with your own credentials.
 
 ## Using with SwiftBar
 SwiftBar lets you run scripts and display their output right in your Mac’s menu bar. You can integrate this Python script to show the nearest flight info live.
