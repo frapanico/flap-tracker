@@ -1,6 +1,6 @@
 # FLAP – Flight Location and Proximity (v0.1.0-alpha)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f0c2ba0f-088d-409e-b246-aee394865be5" alt="FLAP – Flight Location and Proximity" />
+  <img src="https://github.com/user-attachments/assets/09642846-f054-4c46-a0a3-b563a2289ee1" alt="FLAP – Flight Location and Proximity" />
   <br/>
   <em></em>
 </p>
