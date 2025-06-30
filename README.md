@@ -15,11 +15,13 @@ For the example output below, the line with the three dashes `"---"` has been re
 ✈️ AEE123 5.6 km
 12:45:17 Alt: 11250 m | Vel: 250 m/s
 ```
+The label `Vel` refers to speed, as the interface was originally designed in Italian.
 
 ## Requirements
 - Python 3.7+
-- `requests`
-- `geopy`
+- Python packages:
+  - `requests`
+  - `geopy`
 
 ## Authentication 
 This script uses client credentials (OAuth2) to authenticate with OpenSky. To obtain your own `clientId` and `clientSecret`:
