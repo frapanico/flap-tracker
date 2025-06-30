@@ -40,7 +40,7 @@ At this point, copy the script into your SwiftBar plugins folder, usually locate
 
 ## Command Line Usage
 You can also run the script from your terminal:
-```python
+```terminal
 python nearest_flight.1s.py
 ```
 
@@ -50,6 +50,6 @@ This script relies on the OpenSky Network API, which has some constraints:
 - **Rate Limits:** OpenSky enforces request limits, especially for non-commercial users. If you exceed the limit, you may receive empty data or errors.
 - **Limited Uptime:** The OpenSky API may not provide full availability or complete data throughout the day. This is normal behavior for free-tier access.
 
-If the script works for a while and then stops, it's most likely due to one of these limitations. Feel free to share issues, suggestions, or improvements.Your feedback is highly appreciated!
+If the script works for a while and then stops, it's most likely due to one of these limitations. Feel free to share issues, suggestions, or improvements. Your feedback is highly appreciated!
 
 
