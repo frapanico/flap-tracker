@@ -1,5 +1,5 @@
 # FLAP – Flight Location and Proximity (v0.1.0-alpha)
-This is a lightweight Python script that connects to the [OpenSky Network](https://opensky-network.org/) API to display the nearest aircraft to a specific location (Rome, Italy by default). This script is designed to be used with SwiftBar to display real-time information in the Mac menu bar. However, it can also be run from the terminal if needed.
+A lightweight Python script that connects to the [OpenSky Network](https://opensky-network.org/) API to display the nearest aircraft to a specific location (Rome, Italy by default). This script is designed to be used with SwiftBar to display real-time information in the Mac menu bar. However, it can also be run from the terminal if needed.
 
 ## Example output
 ```python
