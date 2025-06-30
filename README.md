@@ -4,6 +4,7 @@
   <br/>
   <em></em>
 </p>
+
 A lightweight Python script that connects to the [OpenSky Network](https://opensky-network.org/) API to retrieve and display real-time information about the closest aircraft to a specified location (Rome, Italy by default), including its callsign, distance, altitude, and speed. This script is designed to be used with [SwiftBar](https://github.com/swiftbar/SwiftBar) to display real-time information in the Mac menu bar. However, it can also be run from the terminal if needed.
 
 
