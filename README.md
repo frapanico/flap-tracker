@@ -2,6 +2,12 @@
 A lightweight Python script that connects to the [OpenSky Network](https://opensky-network.org/) API to retrieve and display real-time information about the closest aircraft to a specified location (Rome, Italy by default), including its callsign, distance, altitude, and speed. This script is designed to be used with [SwiftBar](https://github.com/swiftbar/SwiftBar) to display real-time information in the Mac menu bar. However, it can also be run from the terminal if needed.
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0c2ba0f-088d-409e-b246-aee394865be5" alt="FLAP – Flight Location and Proximity" />
+  <br/>
+  <em>Logo created with the assistance of Gemini's AI capabilities.</em>
+</p>
+
 ## Example output
 For the example output below, the line with the three dashes `"---"` has been removed (see the **Using with SwiftBar** section,  the script is designed to work with SwiftBar, which requires this formatting). However, if you want to run it from the terminal instead, you can simply remove the `"---"` line, and the output will look like this:
 
