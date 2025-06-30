@@ -30,7 +30,7 @@ This script uses client credentials (OAuth2) to authenticate with OpenSky. To ob
 
 ## Using with SwiftBar
 SwiftBar lets you run scripts and display their output right in your Mac’s menu bar. You can integrate this Python script to show the nearest flight info live.
-The script is already named `nearest_flight.1s.py` to follow SwiftBar’s naming convention, since it was designed for use with SwiftBar. The `1s` in the filename means SwiftBar will refresh the output every minute. Adjust as you prefer (5m, 30s, etc.). This way, you get real-time nearest flight info in your Mac menu bar, refreshing automatically.
+The script is already named `nearest_flight.1s.py` to follow SwiftBar’s naming convention, since it was designed for use with SwiftBar. The `1s` in the filename means SwiftBar will refresh the output every second. Adjust as you prefer (5m, 30s, etc.). This way, you get real-time nearest flight info in your Mac menu bar, refreshing automatically.
 Make sure your script is executable running:
 ```terminal
 chmod +x nearest_flight.1s.py
